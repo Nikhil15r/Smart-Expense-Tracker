@@ -2,6 +2,11 @@
   "name": "smart-expense-tracker",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://smartexpensemanagement.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nikhil15r/Smart-Expense-Tracker.git"
+  },
   "scripts": {
     "dev": "node ./node_modules/next/dist/bin/next dev",
     "build": "node ./node_modules/next/dist/bin/next build",

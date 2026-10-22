@@ -1,8 +1,27 @@
 # Smart Expense Tracker & Personal Finance Intelligence Platform
 
+[![Live App](https://img.shields.io/badge/Live%20Deployment-smartexpensemanagement.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://smartexpensemanagement.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-emerald?style=for-the-badge)](https://smartexpensemanagement.vercel.app)
+
+> 🚀 **Live Production Application**: **[https://smartexpensemanagement.vercel.app](https://smartexpensemanagement.vercel.app)**
+
 A production-grade, secure, responsive full-stack personal finance web application built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, **Prisma ORM**, and **PostgreSQL**.
 
 The platform intelligently manages bank transactions, categorizes expenses, monitors cash flows, manages budgets with threshold alerts, identifies recurring subscription patterns, and delivers verified financial intelligence without AI hallucinations.
+
+---
+
+## 🌐 Live Production Deployment
+
+The application is deployed and available live on Vercel:
+
+| Environment | URL | Status |
+| :--- | :--- | :--- |
+| **Production** | [https://smartexpensemanagement.vercel.app](https://smartexpensemanagement.vercel.app) | 🟢 Live & Operational |
+| **Repository** | [https://github.com/Nikhil15r/Smart-Expense-Tracker](https://github.com/Nikhil15r/Smart-Expense-Tracker) | 🟢 Main Branch |
 
 ---
 
